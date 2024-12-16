@@ -1,2 +1,2 @@
-A:y,D,I,E,U
-T,R,O:y,Y,S
+R,E,A,I,S
+L:y,O:g,U:g,N,D:g

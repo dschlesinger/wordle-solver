@@ -6,4 +6,6 @@ VW = ValidWords()
 
 H = History()
 
-print(VW.find_possible(H), sep='\n')
+print('Explore', *VW.find_explore_words(H)[:5], sep='\n')
+
+print('Possible', *[v[0] for v in VW.score_possible(H)[0:20]], sep='\n')
