@@ -1,0 +1,2 @@
+A:y,D,I,E,U
+T,R,O:y,Y,S
